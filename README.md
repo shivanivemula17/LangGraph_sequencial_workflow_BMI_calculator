@@ -137,12 +137,6 @@ Through this project, I learned:
 - How to compile and execute a LangGraph workflow.
 - How to visualize the workflow architecture.
 
-## Learning Reference
-
-**Tutorial:** Sequential Workflows in LangGraph | Agentic AI Using LangGraph | Video 5 – CampusX
-
-[Watch the YouTube Tutorial](https://youtu.be/bAWujyAl1Kk)
-
 ---
 
 **Project Type:** Sequential Workflow  
